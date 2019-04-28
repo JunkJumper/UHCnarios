@@ -2,3 +2,7 @@ name: UHCnarios
 version: 1.0
 author: JunkJumper
 main: fr.junkjumper.uhcnarios.Main
+commands:
+  cutclean:
+    description: Enable cutclean scenario
+    permission: uhcn.cutclean
