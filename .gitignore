@@ -46,3 +46,7 @@ local.properties
 # Locally stored "Eclipse launch configurations"
 *.launch
 /.clover/
+
+#local folder
+/export/
+export/**
